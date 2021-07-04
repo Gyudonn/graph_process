@@ -27,4 +27,5 @@ ax.bar_label(p1, label_type='center')
 ax.bar_label(p2, label_type='center')
 ax.bar_label(p2)
 
-plt.show()
+#plt.show()
+plt.savefig('demo.png')
